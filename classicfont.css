@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'classicSerif';
-    font-weight: 400;    
+    font-weight: 400, 700;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulBatang.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulBatang.woff') format('woff');
@@ -24,7 +24,7 @@
 }
 @font-face {
     font-family: 'classicSans';
-    font-weight: 400;    
+    font-weight: 400, 700;    
     font-style: italic;
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.woff') format('woff');
