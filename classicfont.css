@@ -33,29 +33,13 @@
 @font-face {
     font-family: 'classicSans';
     font-weight: 400;    
-    font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.woff') format('woff');
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'classicSans';
-    font-weight: 700;    
-    font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.woff') format('woff');
-    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'classicSans2';
-    font-weight: 400;    
     font-style: italic;
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.woff') format('woff');
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'classicSans2';
+    font-family: 'classicSans';
     font-weight: 700;    
     font-style: italic;
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulDotum.woff2') format('woff2');
