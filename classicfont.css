@@ -38,3 +38,11 @@
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.woff') format('woff');
     src:local(☺), url('https://builtforpig.github.io/googlebloggercss/HangeulGulim.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'classicFixed';
+    font-weight: 400;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/TruetypeFixedsys.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/TruetypeFixedsys.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/googlebloggercss/TruetypeFixedsys.ttf') format('truetype');
+}
